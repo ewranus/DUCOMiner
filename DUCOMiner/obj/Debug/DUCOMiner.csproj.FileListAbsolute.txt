@@ -1,0 +1,7 @@
+C:\Users\Evrenus\source\repos\DUCOMiner\DUCOMiner\bin\Debug\DUCOMiner.exe.config
+C:\Users\Evrenus\source\repos\DUCOMiner\DUCOMiner\bin\Debug\DUCOMiner.exe
+C:\Users\Evrenus\source\repos\DUCOMiner\DUCOMiner\bin\Debug\DUCOMiner.pdb
+C:\Users\Evrenus\source\repos\DUCOMiner\DUCOMiner\obj\Debug\DUCOMiner.csprojAssemblyReference.cache
+C:\Users\Evrenus\source\repos\DUCOMiner\DUCOMiner\obj\Debug\DUCOMiner.csproj.CoreCompileInputs.cache
+C:\Users\Evrenus\source\repos\DUCOMiner\DUCOMiner\obj\Debug\DUCOMiner.exe
+C:\Users\Evrenus\source\repos\DUCOMiner\DUCOMiner\obj\Debug\DUCOMiner.pdb
